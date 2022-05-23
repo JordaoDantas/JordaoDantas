@@ -11,3 +11,13 @@ https://youtu.be/bIabpEGUiQo
 <p> Tela de Login
 <img src="assets/img/tela-login.png">
 
+<p> Home
+<img src="assets/img/home menu fechado.png">
+
+<p> Home - Menu Aberto
+<img src="assets/img/tela home - menu aberto.png">
+
+<p> Tela Funcionários
+<img src="assets/img/tele funcionarios.png">
+
+
