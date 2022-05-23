@@ -20,4 +20,10 @@ https://youtu.be/bIabpEGUiQo
 <p> Tela Funcionários
 <img src="assets/img/tele funcionarios.png">
 
+## Layout site Câmara de Vereadores
+
+<p> Home
+<img src="assets/img/home-page - camara.png">
+
+
 
