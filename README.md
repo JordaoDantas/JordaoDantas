@@ -6,7 +6,8 @@ Me chamo Jordão Lima Dantas, 25 anos, e sou um desenvolvedor web recém formado
 
 https://youtu.be/bIabpEGUiQo
 
-Algumas imagens do projeto SGTWEB:
+## Projeto SGTWEB
 
+<p> Tela de Login
 <img src="assets/img/tela-login.png">
 
