@@ -14,7 +14,7 @@ https://youtu.be/bIabpEGUiQo
 <p> Home
 <img src="assets/img/home menu fechado.png">
 
-<p> Tela Funcionários
+<p align="justify"> Tela Funcionários </p>
 <img src="assets/img/tele funcionarios.png">
 
 ## Layout site Câmara de Vereadores
