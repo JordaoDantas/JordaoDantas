@@ -6,20 +6,20 @@
 
 https://youtu.be/bIabpEGUiQo
 
-## Projeto SGTWEB
+<h1>Projeto SGTWEB</h1>
 
-<h1> Tela de Login </h1> 
+<h3> Tela de Login </h3> 
 <img src="assets/img/tela-login.png">
 
-<h1> Home </h1>
+<h3> Home </h3>
 <img src="assets/img/home menu fechado.png">
 
-<h1> Tela Funcionários </h1>
+<h3> Tela Funcionários </h3>
 <img src="assets/img/tele funcionarios.png">
 
 ## Layout site Câmara de Vereadores
 
-<h'> Home </h1>
+<h3> Home </h3>
 <img src="assets/img/home-page - camara.png">
 
 
